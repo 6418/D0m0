@@ -1,0 +1,715 @@
+[25-Sep-2018 01:38:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:38:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:38:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:38:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Sep-2018 01:39:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com.p...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[13-Nov-2018 19:38:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('doscar10_48@hot...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[13-Nov-2018 19:38:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('doscar10_48@hot...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[13-Nov-2018 19:42:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('doscar10_48@hot...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 21:59:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('administracion@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 21:59:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('administracion@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 21:59:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('administracion@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:01:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:01:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:01:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:01:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:03:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:03:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:03:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:03:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:03:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:03:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:03:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:03:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:03:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:03:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:03:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:03:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:03:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:03:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:06:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:06:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:06:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:06:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:06:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:06:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:06:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:06:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:06:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:06:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:06:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:06:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:18:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:18:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:19:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:19:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:19:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:19:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:19:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:19:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:19:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[25-Nov-2018 22:19:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 11:40:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('ventasdigitalco...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 11:40:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('ventasdigitalco...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 11:40:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('ventasdigitalco...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 11:40:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('ventasdigitalco...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 11:40:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('ventasdigitalco...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 11:40:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('ventasdigitalco...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 11:40:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('ventasdigitalco...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 11:40:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('ventasdigitalco...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 11:40:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('ventasdigitalco...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 11:40:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('ventasdigitalco...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 11:41:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 11:41:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 14:02:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 14:02:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 14:09:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 14:10:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 14:11:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 14:12:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 14:12:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 14:56:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 14:56:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 14:56:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 14:56:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 14:57:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[26-Nov-2018 21:12:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[27-Nov-2018 11:02:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[27-Nov-2018 11:02:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[27-Nov-2018 11:02:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[27-Nov-2018 11:02:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[27-Nov-2018 11:02:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('postulante1982@...')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[27-Nov-2018 11:08:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[27-Nov-2018 11:09:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[27-Nov-2018 11:09:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
+[27-Nov-2018 11:09:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/domosecurityperu/public_html/contact.php:33
+Stack trace:
+#0 /home/domosecurityperu/public_html/contact.php(50): check_email('hola@hola.com')
+#1 {main}
+  thrown in /home/domosecurityperu/public_html/contact.php on line 33
